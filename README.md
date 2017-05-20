@@ -3,6 +3,8 @@
 Hands on tutorial material for learning to customize a Stanbol
 server. This repo contain the exercises empty and solved.
 
+## Run Apache Stanbol
+[In docker](Run_Apache_Stanbol/README.md)
 
 ## 1 Example: ISBN 
 [1_Example](1_Example/README.md)
